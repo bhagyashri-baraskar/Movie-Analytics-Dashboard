@@ -49,6 +49,9 @@ This analysis highlights key drivers of movie success, including studio performa
 By focusing on high-ROI movies and strong-performing studios, stakeholders can optimize investment, production, and marketing strategies.  
 The dashboard provides a clear, data-driven view to support strategic planning and performance evaluation.
 
+## Dashboard
+**Dashboard Screenshot**
+![Movie Analytics Dashboard](https://raw.githubusercontent.com/bhagyashri-baraskar/Movie-Analytics-Dashboard/main/img.png)
 ## Tools Used
 • Power BI  
 • Excel  
