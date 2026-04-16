@@ -4,7 +4,7 @@
 The objective of this project is to analyze historical movie data to understand movie performance, revenue generation, profit margins, audience ratings, and ROI.  
 This dashboard helps stakeholders identify top-performing movies, studios, and industries, enabling data-driven decisions in movie production and distribution.
 
-## Dataset Used
+## Dataset 
 [movies-db-1.xlsx](https://github.com/bhagyashri-baraskar/Movie-Analytics-Dashboard/blob/main/movies-db-1.xlsx)
 
 ## The dataset contains:
